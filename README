@@ -2,10 +2,11 @@
 meshmsh by Retrospect Security
 Connect to a meshtastic radio over usb and communicate using a bash interface.
 
-Comms:
+Scripts:
 receive.sh - receive lora messages and open the chat window
+status.sh - show status window of local nodes
 send.sh - sending lora messages to all users
-
+screen_rc - config to create proper screen
 
 TODO:
 Add chat history to receive.sh and save as csv automatically
