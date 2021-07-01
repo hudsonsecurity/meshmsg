@@ -1,0 +1,9 @@
+screen ./status.sh
+bind - resize -3
+split
+focus down
+screen ./receive.sh
+split
+focus down
+screen ./send.sh
+focus bottom

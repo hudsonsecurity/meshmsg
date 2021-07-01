@@ -1,0 +1,11 @@
+07/01/2021
+meshmsh by Retrospect Security
+Connect to a meshtastic radio over usb and communicate using a bash interface.
+
+Comms:
+receive.sh - receive lora messages and open the chat window
+send.sh - sending lora messages to all users
+
+
+TODO:
+Add chat history to receive.sh and save as csv automatically
